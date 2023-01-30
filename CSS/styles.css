@@ -35,10 +35,12 @@ header {
 /* Aqui estan los estilos del HERO */
 #hero {
     position: relative;
+    min-width: 320px;
 }
 #hero #computadora {
     display: inline-block;
     width: 100%;
+    height: auto;
 }
 
 #hero .information-container {
@@ -50,7 +52,9 @@ header {
     width: 100%;
     color: #fff;
     padding: 0 50px;
-    
+    min-width: 320px;
+    height: auto;
+    align-items: center;
 }
 
 #hero .information-container #foto {
@@ -69,12 +73,12 @@ header {
 #hero .information-container .informacion span {
     display: inline-block;
     color: #b5b5b5;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
 
 /* Estilos del MAIN */
 main {
-    padding: 100px;
+    padding: 50px 50px;
 }
 
 main p {

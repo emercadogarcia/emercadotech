@@ -1,22 +1,32 @@
 
     /* CSS para dar estilo a la página */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      /* min-width: 320px; */
+  }
+
     body {
       font-family: Arial, sans-serif;
     }
     .container {
-      max-width: 1200px;
+      max-width: 1024px;
       margin: 0 auto;
     }
     .card {
       background-color: #f7f7f7;
+      width: 95%;
+      margin: 5px auto;
       padding: 20px;
-      border-radius: 10px;
+      border-radius: 15px;
       box-shadow: 2px 2px 10px #ccc;
     }
     .btn {
       background-color: #4CAF50;
       color: white;
       padding: 12px 20px;
+      display: inline-block;
       border: none;
       border-radius: 4px;
       cursor: pointer;
@@ -35,5 +45,17 @@
       font-size: smaller;
       display: block;
       margin-top: 5px;
+    }
+
+    .card-scan {
+      display: inline-flex;
+      padding: 15px 15px;
+    }
+
+    .card-scan .sku {
+    
+      padding: 0px;
+      margin: 0;
+      padding: 0%;
     }
   

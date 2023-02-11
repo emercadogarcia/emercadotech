@@ -32,6 +32,7 @@ Es importante que antes de comenzar cualquier plan de alimentación o ejercicio,
 
 Edgar Mercado Garcia
 puedes hacer una dieta para cada día balanceando las calorías a consumir?
+
 Claro, aquí está un ejemplo de una dieta de 7 días balanceando las calorías para ayudarte a bajar de peso:
 
 Día 1:

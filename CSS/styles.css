@@ -36,6 +36,7 @@ header {
 #hero {
     position: relative;
     min-width: 320px;
+    /* max-width: 1024px; */
 }
 #hero #computadora {
     display: inline-block;

@@ -44,6 +44,7 @@ Merienda: 1 taza de frutas frescas o un yogur bajo en grasa (aproximadamente 100
 Cena: Sopa de verduras con pollo a la plancha, 1 taza de frijoles (aproximadamente 400 calorías)
 Antes de acostarte: 1 taza de leche baja en grasa o 1 yogur bajo en grasa (aproximadamente 100 calorías)
 Total de calorías: 1430
+
 Día 2:
 
 Desayuno: Smoothie de leche baja en grasa, frutas frescas, avena y nueces (aproximadamente 450 calorías)
